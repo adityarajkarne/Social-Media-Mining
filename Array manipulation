@@ -1,0 +1,19 @@
+Actions accomplished:
+
+load_nytimes_document_term_matrix_and_labels
+
+normalize_document_term_matrix
+    
+creating distance_matrix
+    
+jaccard_similarity_matrix
+
+nearest_neighbors_classifier
+
+extract_hashtags(tweet):
+
+extract_mentions(tweet):
+    
+creating adjacency_matrix_from_edges
+
+creating mentions_adjacency_matrix

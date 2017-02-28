@@ -1,0 +1,20 @@
+Actions accomplished:
+
+
+Return the index of the highest value in a list.
+
+tokenize:Extract words from a string containing English words.
+
+shared_words:Identify shared words in two texts written in English.
+
+shared_words_from_filenames: Identify shared words in two texts stored on disk.
+
+text2wordfreq:Calculate word frequencies for a text written in English.
+
+lexical_density: Calculate the lexical density of a string containing English words.
+
+hashtags: Extract hashtags from a string.
+
+jaccard_similarity: Calculate Jaccard Similarity between two texts.
+
+ 
